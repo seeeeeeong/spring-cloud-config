@@ -1,0 +1,7 @@
+jwt:
+  secret: 264dc539f77f78e81f49744f93ca96e640d3904ce440d5b2327772fd2eac0ac807ae68b1ab8686faaa28cea6d201c3a01fbbb28be4554ac25ee7df881eef6b3f
+  access-token-expiration-time: 900000
+  refresh-token-expiration-time: 1209600000
+
+gateway:
+  ip: 172.30.25.125
