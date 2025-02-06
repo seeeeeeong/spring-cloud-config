@@ -3,3 +3,5 @@ blacklist:
     - www.example.com
     - www.example2.com
     - www.example3.com
+    - www.example4.com
+
