@@ -1,0 +1,5 @@
+blacklist:
+  domains:
+    - www.example2.com
+    - www.example.com
+    - www.example3.com
